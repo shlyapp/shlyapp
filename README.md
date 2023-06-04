@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-#### Hello!
+#### こんにちは, Internet!
 
 ##### I am a 1st year student at Izhevsk State Technical University, Faculty of Computer Science and Engineering
 
