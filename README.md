@@ -1,4 +1,4 @@
-Hello!
+Hello! I`m a python developer!
 
 > email: daniil.kostenkov.work@gmail.com <br />
 > telegram: @shlyappwork <br />
